@@ -1,6 +1,6 @@
 
 ## Welcome to GitHub Pages
-<html>
+<html lang="en">
 <div class="container">
   <div class="row">
     <div class="col">
