@@ -1,4 +1,28 @@
 ## Welcome to GitHub Pages
+<div class="container">
+  <div class="row">
+    <div class="col">
+      1 of 3
+    </div>
+    <div class="col-6">
+      2 of 3 (wider)
+    </div>
+    <div class="col">
+      3 of 3
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      1 of 3
+    </div>
+    <div class="col-5">
+      2 of 3 (wider)
+    </div>
+    <div class="col">
+      3 of 3
+    </div>
+  </div>
+</div>
 
 You can use the [editor on GitHub](https://github.com/jthomas999/jthomas999.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
