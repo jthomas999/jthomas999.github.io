@@ -1,4 +1,6 @@
+
 ## Welcome to GitHub Pages
+<html>
 <div class="container">
   <div class="row">
     <div class="col">
@@ -23,6 +25,7 @@
     </div>
   </div>
 </div>
+</html>
 
 You can use the [editor on GitHub](https://github.com/jthomas999/jthomas999.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
